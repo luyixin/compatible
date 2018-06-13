@@ -11,7 +11,7 @@ This project is only to achieve the function, but also need to follow-up optimiz
 
 ## 截图展示
 <p>
-  <img alt="app" src="./screenshots/app.jpg" width="49%" /><img alt="web" src="./screenshots/web.png" width="49%" />
+  <img alt="app" src="./screenshots/app.png" width="49%" /><img alt="web" src="./screenshots/web.png" width="49%" />
 </p>
 
 ## Build Setup
