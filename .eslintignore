@@ -1,0 +1,5 @@
+build_base/*.js
+config_base/*.js
+build_web/*.js
+config_web/*.js
+src/assets/iconfont/*
