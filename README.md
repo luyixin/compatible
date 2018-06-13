@@ -11,8 +11,8 @@ This project is only to achieve the function, but also need to follow-up optimiz
 
 ## 截图展示
 <p>
-  <img alt="新闻列表" src="./screenshots/app.jpg" width="50%" />
-  <img alt="新闻详情" src="./screenshots/web.jpg" width="50%" />
+  <img alt="app" src="./screenshots/app.jpg" width="50%" />
+  <img alt="web" src="./screenshots/web.jpg" width="50%" />
 </p>
 
 ## Build Setup
