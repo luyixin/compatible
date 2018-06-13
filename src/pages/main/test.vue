@@ -7,7 +7,7 @@
   </div>
 </template>
 <script>
-import api from '@/config/api'
+// import api from '@/config/api'
 import img from '@/assets/images/test.png'
 
 export default {
@@ -18,9 +18,9 @@ export default {
     }
   },
   mounted () {
-    api.postTest().then(res => {
-      this.testData = res.result
-    })
+    // api.postTest().then(res => {
+    //   this.testData = res.result
+    // })
   }
 }
 </script>

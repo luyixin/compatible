@@ -1,9 +1,9 @@
 import request from './request'
 
-const baseUrlApi = 'https://pre.91xiangke.com/'
+const baseUrlApi = 'https://xxx.xxx.xxx/'
 
 const api = {
-  postTest: r => request.post('support/clientVersion/findNewVersionWeChatMini', null, {
+  postTest: r => request.post('xxx', null, {
     baseURL: baseUrlApi
   })
 }
