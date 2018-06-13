@@ -1,5 +1,6 @@
 # compatible
-🇨🇳A template based on mpvue while satisfying WeChat mini program and h5！    基于mpvue的模板，同时满足WeChat mini程序和h5
+🇨🇳A template based on mpvue while satisfying WeChat mini program and h5！Write once and run on the WeChat mini program and web side at the same time！
+<br/>基于mpvue的模板，同时满足WeChat mini程序和h5，只写一次，同时运行在微信小程序和web端
 
 ## 说明
 This project is only to achieve the function, but also need to follow-up optimization. If you are interested in this project, welcome to submit the code, thank you, contribute to the open source.
