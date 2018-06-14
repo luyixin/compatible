@@ -24,7 +24,7 @@ export default {
   }
 }
 </script>
-<style lang="less">
+<style lang="scss" scoped>
   .test-app {
     background-color: red;
   }

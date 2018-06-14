@@ -8,8 +8,8 @@ Vue.use(Router)
 if (!wx) {
   routes.unshift({
     path: '/',
-    name: 'Main',
-    redirect: '/pages/main/test',
+    name: 'Root',
+    redirect: '/pages/main',
     component: () => require('@/webApp')
   })
 }
@@ -18,7 +18,7 @@ export default new Router({
   routes: routes.map(route => {
     if (route.path === '/') return route
     const paths = route.path.replace(/^\//, '').split('/')
-    route.component = () => import(`@/${paths[0]}/${paths[1]}/${paths[2]}`)
+    route.component = () => import(`@/${paths[0]}/${paths[1]}`)
     return route
   })
 })

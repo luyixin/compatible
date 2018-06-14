@@ -1,5 +1,5 @@
 <style>
-@import "assets/style/base_index.less";
+@import "assets/style/base_index.scss";
 
 .aaa {
   color: #333;

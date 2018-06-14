@@ -4,13 +4,7 @@
 
 module.exports = [
   {
-    path: '/pages/main/test',
-    name: 'Test',
-    meta: {
-      nav: true
-    },
-    config: {
-      enablePullDownRefresh: true
-    }
+    path: '/pages/main',
+    name: 'Main'
   }
 ]

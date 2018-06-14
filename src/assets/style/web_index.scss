@@ -2,7 +2,8 @@
 * created by lu.yixin on 2018/06/12
 */
 
-@import "./index.less";
+@import "~minireset.css/minireset.css";
+@import "./index.scss";
 
 .abc {
   background-color: #333;

@@ -4,7 +4,7 @@
   </div>
 </template>
 <style>
-@import "assets/style/web_index.less";
+@import "assets/style/web_index.scss";
 
 .aaa {
   color: #333;
