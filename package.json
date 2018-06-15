@@ -4,6 +4,7 @@
   "description": "🇨🇳A template based on mpvue while satisfying WeChat mini program and h5！    基于mpvue的模板，同时满足WeChat mini程序和h5",
   "author": "luyixin <410780496@qq.com>",
   "private": true,
+  "keywords": ["vue", "mpvue", "mini app", "WeChat applets", "h5"],
   "scripts": {
     "dev:base": "node build_base/dev-server.js",
     "build:base": "node build_base/build.js",
